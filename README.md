@@ -15,9 +15,7 @@ My responsibilities include:
 
 ## My GitHub Stats 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMorez&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMorez&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMorez&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMorez&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [telegram]: https://t.me/DenisDuginov
