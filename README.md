@@ -25,7 +25,7 @@ My responsibilities include:
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
-<img src="https://sentry-brand.storage.googleapis.com/sentry-logo-black.png" height="28" style="background: aliceblue" />
+<img src="https://img.shields.io/badge/sentry-%23362D59.svg?&style=for-the-badge&logo=sentry&logoColor=white" />
 </p>
 
 
