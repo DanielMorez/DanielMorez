@@ -4,12 +4,14 @@
 [<img height="30" src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">][discord] 
 [<img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 
-## I'm a Python web-developer
+## I'm a Python developer
 
-My responsibilities include:
-
-- Development of web applications, API and bots;
-- Systems for collecting data from open sources.
+- I write fluently in python 3.x, including an asynchronous approach.
+- I have practical experience with Django frameworks.
+- I know how to work with Rabbit and Kafka queues. 
+- I have experience in setting up authentication and authorization for web applications. 
+- I know how to set up full-text search through ElasticSearch. 
+- I can build web application architecture from scratch.
 
 ---
 
@@ -39,9 +41,7 @@ My responsibilities include:
 
 [telegram]: https://t.me/DenisDuginov
 [discord]: https://discord.com/users/0113
-[website]: #
 [gmail]: mailto:denisduginov17@gmail.com
-[instagram]: https://www.instagram.com/danielmorezzz/
 
 ---
 
