@@ -32,6 +32,7 @@
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMorez&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMorez&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [telegram]: https://t.me/DenisDuginov
 [discord]: https://discord.com/users/0113
