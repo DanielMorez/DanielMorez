@@ -31,6 +31,8 @@
 
 ---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMorez&show_icons=true&theme=dracula)
+
 [telegram]: https://t.me/DenisDuginov
 [discord]: https://discord.com/users/0113
 [gmail]: mailto:denisduginov17@gmail.com
