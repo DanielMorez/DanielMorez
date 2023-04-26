@@ -7,8 +7,8 @@
 ## I'm a Python developer
 
 - I write fluently in python 3.x, including an asynchronous approach.
-- I have practical experience with Django frameworks.
-- I know how to work with Rabbit and Kafka queues. 
+- I have practical experience with Django/FastAPI/Flask frameworks.
+- I know how to work with RabbitMQ and Kafka queues. 
 - I have experience in setting up authentication and authorization for web applications. 
 - I know how to set up full-text search through ElasticSearch. 
 - I can build web application architecture from scratch.
